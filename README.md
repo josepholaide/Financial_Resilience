@@ -1,8 +1,9 @@
 # Financial_Resilience
 
 Financial Resilience Challenge by UmojaHack Africa 2021.
+
 ## Objective 
-The objective of this hackathon is to develop a predictive model that determines if individuals across Africa and around the world are most likely to be financially resilient or not. This solution will provide insight into people’s financial behaviors and resilience, which can help financial services providers including insurance companies and banks tailor their services to give their clients the best chance possible to achieve financial resilience.
+This project aims to develop a predictive model that determines if individuals across Africa and around the world are most likely to be financially resilient. This solution will provide insight into people’s financial behaviors and resilience, which can help financial services providers including insurance companies and banks tailor their services to give their clients the best chance possible to achieve financial resilience.
 
 ## Data Reference
 
